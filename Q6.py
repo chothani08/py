@@ -1,0 +1,10 @@
+int_value = input("Enter number :")
+float_value = input("Enter number :")
+print(f"Integer value: {int_value}")
+print(f"Float value: {float_value}")
+
+user_input = input("Enter a number:")
+int_value = int(user_input)
+float_value = float(user_input)
+print(int_value)
+print(float_value)
